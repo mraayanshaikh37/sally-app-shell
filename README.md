@@ -5,7 +5,7 @@ website inside a real native Android app — using its own private WebView,
 not Chrome. No browser bar, no app-lock conflicts, no Chrome dependency.
 
 Live site loaded by the app:
-https://mraayanshaikh37.github.io/sally/
+https://mraayanshaikh37.github.io/sally-roleplay-ai/
 
 The app is just a shell. Sally's actual chatbot logic, personality, and API
 calls live on that site. Any update pushed there shows up in the app
