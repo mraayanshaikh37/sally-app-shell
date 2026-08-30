@@ -1,0 +1,16 @@
+{
+  "name": "sally-app-shell",
+  "version": "1.0.0",
+  "description": "Native app shell for Sally - loads the live website in a private WebView",
+  "scripts": {
+    "build": "echo 'no build step needed - static www folder'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/splash-screen": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
