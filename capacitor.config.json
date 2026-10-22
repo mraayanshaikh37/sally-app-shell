@@ -1,10 +1,11 @@
 {
-  "appId": "com.aayan.sally",
-  "appName": "Sally",
+  "appId": "com.aayan.sakhi",
+  "appName": "Sakhi",
   "webDir": "www",
   "server": {
-    "url": "https://mraayanshaikh37.github.io/sally-roleplay-ai/",
-    "cleartext": false
+    "url": "https://mraayanshaikh37.github.io/sakhi-chatbot-/",
+    "cleartext": false,
+    "allowNavigation": ["mraayanshaikh37.github.io"]
   },
   "android": {
     "allowMixedContent": false
